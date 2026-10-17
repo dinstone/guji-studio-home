@@ -4,7 +4,7 @@
     "name": "Guji Studio · 古籍工作室",
     "tagline": "可视化古籍排版 · 免费开源",
     "license": "AGPL-3.0",
-    "homepage": "https://github.com/dinstone/guji-studio"
+    "homepage": "https://github.com/dinstone/guji-studio-home"
   },
   "sponsorLinks": {
     "githubSponsors": "https://github.com/sponsors/<owner>",
@@ -15,7 +15,7 @@
     { "title": "解锁：更多古籍底本模板", "goal": 1000, "current": 320 }
   ],
   "sponsors": [
-    { "name": "张总", "amount": 50, "tier": "赞助者", "date": "2026-09-10", "message": "支持古籍数字化！", "link": "" },
+    { "name": "张总", "amount": 500, "tier": "赞助者", "date": "2026-09-10", "message": "支持古籍数字化！", "link": "" },
     { "name": "liuliu", "amount": 200, "tier": "赞助者", "date": "2026-09-08", "message": "", "link": "" }
   ]
 }
