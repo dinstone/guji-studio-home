@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-19-19",
   "project": {
     "name": "Guji Studio · 古籍工作室",
     "tagline": "可视化古籍排版 · 免费开源",
@@ -15,7 +15,7 @@
     { "title": "解锁：更多古籍底本模板", "goal": 1000, "current": 320 }
   ],
   "sponsors": [
-    { "name": "张总", "amount": 500, "tier": "赞助者", "date": "2026-09-10", "message": "支持古籍数字化！", "link": "" },
-    { "name": "liuliu", "amount": 200, "tier": "赞助者", "date": "2026-09-08", "message": "", "link": "" }
+    { "name": "张总", "amount": 500, "tier": "赞助者", "date": "2026-10-10", "message": "支持古籍数字化！", "link": "" },
+    { "name": "liuliu", "amount": 100, "tier": "赞助者", "date": "2026-10-18", "message": "加油！", "link": "" }
   ]
 }
