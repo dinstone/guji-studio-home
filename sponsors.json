@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-29",
   "project": {
     "name": "Guji Studio · 古籍工作室",
     "tagline": "可视化古籍排版 · 免费开源",
@@ -15,8 +15,9 @@
     { "title": "解锁：更多古籍底本模板", "goal": 1000, "current": 320 }
   ],
   "sponsors": [
-    { "name": "张总", "amount": 500, "tier": "赞助者", "date": "2026-10-10", "message": "支持古籍数字化！", "link": "" },
+    { "name": "张总", "amount": 500, "tier": "战投者", "date": "2026-10-10", "message": "支持古籍数字化！", "link": "" },
     { "name": "liuliu", "amount": 200, "tier": "赞助者", "date": "2026-10-18", "message": "加油！", "link": "" },
-    { "name": "匿名(100***2413)", "amount": 10, "tier": "赞助者", "date": "2026-10-25", "message": "很好用！继续！", "link": "" }
+    { "name": "匿名(100***2413)", "amount": 10, "tier": "赞助者", "date": "2026-10-25", "message": "很好用！继续！", "link": "" },
+    { "name": "张瑞雪", "amount": 10, "tier": "赞助者", "date": "2026-10-29", "message": "软件太好了，希望继续改进。比如夹注中间间距太宽，能否改成可调？", "link": "" }
   ]
 }
