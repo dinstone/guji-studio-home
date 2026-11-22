@@ -1,0 +1,27 @@
+{
+  "chapters": [
+    {
+      "id": "pmwqddc30yc0nw",
+      "title": "新章节"
+    }
+  ],
+  "volumes": [
+    {
+      "id": "pmwqddaok41e7b",
+      "title": "",
+      "chapters": []
+    },
+    {
+      "id": "pmwqdcbhwjsphf",
+      "title": "卷三",
+      "chapters": [
+        "pmwqddc30yc0nw"
+      ]
+    }
+  ],
+  "packs": {
+    "cover": {},
+    "fly": {},
+    "colophon": {}
+  }
+}
