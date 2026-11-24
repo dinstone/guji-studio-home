@@ -5,6 +5,9 @@
     "author": ""
   },
   "template": {
+    "accent_backup_font_family": "",
+    "accent_comma_zhu": 0,
+    "backup_font_family": "",
     "badge_color": "#e32400",
     "badge_decor": 1,
     "badge_font_family": "kai",
@@ -14,6 +17,110 @@
     "canvas_color": "none",
     "canvas_height": 2480,
     "canvas_width": 3508,
+    "centerStack": {
+      "seams": [
+        {
+          "from": "frame.top",
+          "id": "sm8",
+          "to": "w1",
+          "type": "seam"
+        }
+      ],
+      "stack": [
+        {
+          "id": "w1",
+          "pos": 0.18,
+          "type": "divider"
+        },
+        {
+          "dir": "down",
+          "id": "w2",
+          "pos": 0.18,
+          "type": "fish"
+        },
+        {
+          "id": "w3",
+          "pos": 0.25,
+          "type": "title"
+        },
+        {
+          "id": "w4",
+          "pos": 0.45,
+          "type": "vol"
+        },
+        {
+          "id": "w5",
+          "pos": 0.63,
+          "text": "",
+          "type": "pager"
+        },
+        {
+          "dir": "up",
+          "id": "w6",
+          "pos": 0.75,
+          "type": "fish"
+        },
+        {
+          "id": "w7",
+          "pos": 0.75,
+          "type": "divider"
+        },
+        {
+          "id": "wmwsrnk6uznt",
+          "pos": 0.8,
+          "type": "hall"
+        }
+      ],
+      "widgetTypes": {
+        "divider": {
+          "color": "",
+          "width": 9
+        },
+        "fish": {
+          "color": "",
+          "shape": "doubleline"
+        },
+        "hall": {
+          "align": "center",
+          "color": "",
+          "fam": "",
+          "fontSize": 56,
+          "text": "读经解惑藏"
+        },
+        "image": {},
+        "pager": {
+          "align": "center",
+          "color": "",
+          "fam": "song_tc",
+          "fontSize": 56,
+          "style": "cn"
+        },
+        "seam": {
+          "color": "",
+          "width": 5
+        },
+        "text": {},
+        "title": {
+          "align": "center",
+          "color": "",
+          "fam": "kai",
+          "fontSize": 56,
+          "spacing": 1.2,
+          "text": "昌黎先生集"
+        },
+        "vol": {
+          "align": "center",
+          "color": "",
+          "fam": "",
+          "fontSize": 56,
+          "mode": "center",
+          "postfix": "",
+          "spacing": 0,
+          "text": "",
+          "volnames": ""
+        }
+      }
+    },
     "chapter1_align": "top",
     "chapter1_bold": 1,
     "chapter1_font_delta": 12,
@@ -32,6 +139,7 @@
     "chapter4_font_family": "song_tc",
     "chapter_font_color": "",
     "chapter_punct_90": 1,
+    "comment_backup_font_family": "",
     "comment_comma_90": "「」『』〔〕…（）()“”\"'→《》",
     "comment_comma_fullwidth": 1,
     "comment_comma_mode": "none",
@@ -75,6 +183,10 @@
     "fish_top_rectheight": 66,
     "fish_top_triaheight": 40,
     "fish_top_y": 0.18,
+    "frame_distress": "none",
+    "frame_form": "whole",
+    "frame_grain": "",
+    "frame_seed": 20261114,
     "hang_scale": 0.7,
     "if_seam": "single",
     "if_tpcenter": "center",
@@ -84,7 +196,7 @@
     "jd_dot_scale": "",
     "jd_ring_scale": 0.18,
     "jd_ring_stroke": 0.04,
-    "leaf_center_width": 140,
+    "leaf_center_width": 100,
     "leaf_col": 9,
     "line_color": "#1a1a1a",
     "margins_bottom": 180,
@@ -102,6 +214,11 @@
     "pager_style": "cn",
     "pager_y": 0.63,
     "pager_y_auto": 0,
+    "punct_line_offset": 0,
+    "punct_line_style": "solid",
+    "punct_line_weight": 0.1,
+    "punct_mark_offset": 0,
+    "punct_mark_size": 0.4,
     "row_delta_y": 10,
     "row_end_auto": 1,
     "row_end_y": 2374,
@@ -111,6 +228,8 @@
     "row_top_pad": 10,
     "ruby_align": "center",
     "ruby_bias": 0.3,
+    "ruby_breath": 4,
+    "ruby_char_gap": 0,
     "ruby_color": "",
     "ruby_font_family": "ruby_serif",
     "ruby_gap": 20,
@@ -134,6 +253,7 @@
     "tag_newpage": "%",
     "tag_ruby": "^^",
     "tag_space": "@",
+    "text_backup_font_family": "",
     "text_col_ratio": 1,
     "text_color": "#141414",
     "text_comma_90": "「」『』〔〕…—（）()《》",
@@ -163,7 +283,10 @@
     "title_ydis": 1.2,
     "vline_color": "",
     "vline_width": 3,
+    "vol_color": "",
+    "vol_font_family": "",
     "vol_font_size": 56,
+    "vol_mode": "center",
     "vol_y": 0.45,
     "vol_y_auto": 0,
     "vol_ydis": 0,
